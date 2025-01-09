@@ -1,0 +1,12 @@
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\bin\Debug\net8.0\DynaSchoolApp.ServiceDefaults.deps.json
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\bin\Debug\net8.0\DynaSchoolApp.ServiceDefaults.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\bin\Debug\net8.0\DynaSchoolApp.ServiceDefaults.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.csproj.AssemblyReference.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.AssemblyInfoInputs.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.AssemblyInfo.cs
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\refint\DynaSchoolApp.ServiceDefaults.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\ref\DynaSchoolApp.ServiceDefaults.dll

@@ -1,0 +1,17 @@
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\bin\Debug\net8.0\DynaSchoolApp.BL.deps.json
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\bin\Debug\net8.0\DynaSchoolApp.BL.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\bin\Debug\net8.0\DynaSchoolApp.BL.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\bin\Debug\net8.0\DynaSchoolApp.Database.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\bin\Debug\net8.0\DynaSchoolApp.Models.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\bin\Debug\net8.0\DynaSchoolApp.Database.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\bin\Debug\net8.0\DynaSchoolApp.Models.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaSchoolApp.BL.csproj.AssemblyReference.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaSchoolApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaSchoolApp.BL.AssemblyInfoInputs.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaSchoolApp.BL.AssemblyInfo.cs
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaSchoolApp.BL.csproj.CoreCompileInputs.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaScho.B52399E6.Up2Date
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaSchoolApp.BL.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\refint\DynaSchoolApp.BL.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\DynaSchoolApp.BL.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.BL\obj\Debug\net8.0\ref\DynaSchoolApp.BL.dll

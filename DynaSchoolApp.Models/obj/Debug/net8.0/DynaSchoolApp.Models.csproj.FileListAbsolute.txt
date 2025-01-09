@@ -1,0 +1,12 @@
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\bin\Debug\net8.0\DynaSchoolApp.Models.deps.json
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\bin\Debug\net8.0\DynaSchoolApp.Models.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\bin\Debug\net8.0\DynaSchoolApp.Models.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.csproj.AssemblyReference.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.AssemblyInfoInputs.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.AssemblyInfo.cs
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.csproj.CoreCompileInputs.cache
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\refint\DynaSchoolApp.Models.dll
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.pdb
+E:\Project\DynaSchoolApp\DynaSchoolApp.Models\obj\Debug\net8.0\ref\DynaSchoolApp.Models.dll

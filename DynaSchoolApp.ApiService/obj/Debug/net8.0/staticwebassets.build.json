@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f4HsQyyYIXrdQxxzjJiuRuhTKE2W2fhXt/95C0OV+/k=",
+  "Source": "DynaSchoolApp.ApiService",
+  "BasePath": "_content/DynaSchoolApp.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
