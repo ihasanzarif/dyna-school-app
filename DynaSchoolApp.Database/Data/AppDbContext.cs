@@ -15,7 +15,7 @@ namespace DynaSchoolApp.Database.Data
             Database.EnsureCreated();
         }
 
-        public DbSet<Product> Products {  get; set; }
+        public DbSet<ProductModel> Products {  get; set; }
 
     }
 }

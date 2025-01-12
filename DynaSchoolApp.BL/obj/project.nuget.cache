@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OmwW50SdwPw=",
+  "dgSpecHash": "dXa6ynMlPEI=",
   "success": true,
-  "projectFilePath": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj",
+  "projectFilePath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.11\\microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.11\\microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",

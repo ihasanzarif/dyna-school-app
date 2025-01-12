@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\git-projects\\dyna-school-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|e:\\project\\git-projects\\dyna-school-app\\dynaschoolapp.web\\components\\pages\\product\\productindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|solutionrelative:dynaschoolapp.web\\components\\pages\\product\\productindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|e:\\project\\git-projects\\dyna-school-app\\dynaschoolapp.web\\components\\pages\\product\\productindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|solutionrelative:dynaschoolapp.web\\components\\pages\\product\\productindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|e:\\project\\git-projects\\dyna-school-app\\dynaschoolapp.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|solutionrelative:dynaschoolapp.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T19:29:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductIndex.razor",
+              "DocumentMoniker": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
+              "ToolTip": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
+              "RelativeToolTip": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T19:24:29.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductIndex.razor.cs",
+              "DocumentMoniker": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
+              "ToolTip": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
+              "RelativeToolTip": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:14:20.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

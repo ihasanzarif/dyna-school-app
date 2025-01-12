@@ -11,12 +11,12 @@ namespace DynaSchoolApp.BL.Repositories
 {
     public interface IProductRepository
     {
-        Task<List<Product>> GetProducts();
+        Task<List<ProductModel>> GetProducts();
     }
 
     public class ProductRepository(AppDbContext dbContext) : IProductRepository
     {
-        Task<List<Product>> IProductRepository.GetProducts()
+        Task<List<ProductModel>> IProductRepository.GetProducts()
         {
             return dbContext.Products.ToListAsync();
         }

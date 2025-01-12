@@ -64,6 +64,50 @@
           }
         }
       },
+      "Microsoft.EntityFrameworkCore/8.0.11": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.11",
+          "Microsoft.EntityFrameworkCore.Analyzers": "8.0.11",
+          "Microsoft.Extensions.Caching.Memory": "8.0.1",
+          "Microsoft.Extensions.Logging": "8.0.1"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/Microsoft.EntityFrameworkCore.props": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/8.0.11": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Analyzers/8.0.11": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {}
+        }
+      },
       "Microsoft.Extensions.AmbientMetadata.Application/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -83,6 +127,48 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/8.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Options": "8.0.2",
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
         }
       },
       "Microsoft.Extensions.Compliance.Abstractions/9.0.0": {
@@ -665,6 +751,19 @@
           }
         }
       },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "OpenTelemetry/1.9.0": {
         "type": "package",
         "dependencies": {
@@ -894,6 +993,19 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "DynaSchoolApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.11"
+        },
+        "compile": {
+          "bin/placeholder/DynaSchoolApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DynaSchoolApp.Models.dll": {}
+        }
+      },
       "DynaSchoolApp.ServiceDefaults/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1022,6 +1134,52 @@
         "packageIcon.png"
       ]
     },
+    "Microsoft.EntityFrameworkCore/8.0.11": {
+      "sha512": "stbjWBTtpQ1HtqXMFyKnXFTr76PvaOHI2b2h85JqBi3eZr00nspvR/a90Zwh8CQ4rVawqLiTG0+0yZQWaav+sQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore/8.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "buildTransitive/net8.0/Microsoft.EntityFrameworkCore.props",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.dll",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.xml",
+        "microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
+        "microsoft.entityframeworkcore.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/8.0.11": {
+      "sha512": "++zY0Ea724ku1jptWJmF7jm3I4IXTexfT4qi1ETcSFFF7qj+qm6rRgN7mTuKkwIETuXk0ikfzudryRjUGrrNKQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.abstractions/8.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.xml",
+        "microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",
+        "microsoft.entityframeworkcore.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Analyzers/8.0.11": {
+      "sha512": "NI/AJQjtC7qgWM8Nr85sRkwlog2AnFer5RKP8xTUH0RuPF3nN0tGXBEeYJOLZWp+/+M/C6O7MMDRhKRE8bZwIA==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.analyzers/8.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
+        "docs/PACKAGE.md",
+        "lib/netstandard2.0/_._",
+        "microsoft.entityframeworkcore.analyzers.8.0.11.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.nuspec"
+      ]
+    },
     "Microsoft.Extensions.AmbientMetadata.Application/9.0.0": {
       "sha512": "F/pe4t8UXc65l0KFLoUDtYttoLI0qtXiWQ4HStw3Cq2ExaNARxS4isAvA6w0PNCyIs8dLxkaruJHeyKN8mK1lA==",
       "type": "package",
@@ -1041,6 +1199,66 @@
         "lib/net9.0/Microsoft.Extensions.AmbientMetadata.Application.xml",
         "microsoft.extensions.ambientmetadata.application.9.0.0.nupkg.sha512",
         "microsoft.extensions.ambientmetadata.application.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
+      "sha512": "3KuSxeHoNYdxVYfg2IRZCThcrlJ1XJqIXkAWikCsbm5C/bCjv7G0WoKDyuR98Q+T607QT2Zl5GsbGRkENcV2yQ==",
+      "type": "package",
+      "path": "microsoft.extensions.caching.abstractions/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Caching.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Caching.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.Caching.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.Caching.Abstractions.xml",
+        "lib/net8.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.Caching.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml",
+        "microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+        "microsoft.extensions.caching.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Caching.Memory/8.0.1": {
+      "sha512": "HFDnhYLccngrzyGgHkjEDU5FMLn4MpOsr5ElgsBMC4yx6lJh4jeWO7fHS8+TXPq+dgxCmUa/Trl8svObmwW4QA==",
+      "type": "package",
+      "path": "microsoft.extensions.caching.memory/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Caching.Memory.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Caching.Memory.targets",
+        "lib/net462/Microsoft.Extensions.Caching.Memory.dll",
+        "lib/net462/Microsoft.Extensions.Caching.Memory.xml",
+        "lib/net6.0/Microsoft.Extensions.Caching.Memory.dll",
+        "lib/net6.0/Microsoft.Extensions.Caching.Memory.xml",
+        "lib/net7.0/Microsoft.Extensions.Caching.Memory.dll",
+        "lib/net7.0/Microsoft.Extensions.Caching.Memory.xml",
+        "lib/net8.0/Microsoft.Extensions.Caching.Memory.dll",
+        "lib/net8.0/Microsoft.Extensions.Caching.Memory.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml",
+        "microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+        "microsoft.extensions.caching.memory.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "Microsoft.Extensions.Compliance.Abstractions/9.0.0": {
@@ -1857,6 +2075,36 @@
         "microsoft.io.recyclablememorystream.nuspec"
       ]
     },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "OpenTelemetry/1.9.0": {
       "sha512": "7scS6BUhwYeSXEDGhCxMSezmvyCoDU5kFQbmfyW9iVvVTcWhec+1KIN33/LOCdBXRkzt2y7+g03mkdAB0XZ9Fw==",
       "type": "package",
@@ -2192,6 +2440,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "DynaSchoolApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../DynaSchoolApp.Models/DynaSchoolApp.Models.csproj",
+      "msbuildProject": "../DynaSchoolApp.Models/DynaSchoolApp.Models.csproj"
+    },
     "DynaSchoolApp.ServiceDefaults/1.0.0": {
       "type": "project",
       "path": "../DynaSchoolApp.ServiceDefaults/DynaSchoolApp.ServiceDefaults.csproj",
@@ -2200,7 +2453,9 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "DynaSchoolApp.ServiceDefaults >= 1.0.0"
+      "DynaSchoolApp.Models >= 1.0.0",
+      "DynaSchoolApp.ServiceDefaults >= 1.0.0",
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
@@ -2210,11 +2465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj",
+      "projectUniqueName": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj",
       "projectName": "DynaSchoolApp.Web",
-      "projectPath": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj",
+      "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\",
+      "outputPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2235,8 +2490,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj": {
-              "projectPath": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj"
+            "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
+              "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj"
+            },
+            "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj": {
+              "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj"
             }
           }
         }
@@ -2256,6 +2514,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

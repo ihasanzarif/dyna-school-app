@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQwu9UH22xE=",
+  "dgSpecHash": "qvBu4Yu2/KQ=",
   "success": true,
-  "projectFilePath": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj",
+  "projectFilePath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

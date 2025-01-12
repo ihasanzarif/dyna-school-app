@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynaSchoolApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3010dd0976be3c86852834a9651eb43125baa171")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynaSchoolApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynaSchoolApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

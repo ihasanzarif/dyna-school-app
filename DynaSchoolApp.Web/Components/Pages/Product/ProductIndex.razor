@@ -1,0 +1,30 @@
+﻿@page "/product"
+<h3>Index</h3>
+
+@if (ProductModels == null){
+    <p>Loading....</p>
+}
+else{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Details</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Created By</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var product in ProductModels){
+                <tr>
+                    <td>@product.ProductName</td>
+                    <td>@product.ProductDescription</td>
+                    <td>@product.Price</td>
+                    <td>@product.Quantity</td>
+                    <td>@product.CreatedBy</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

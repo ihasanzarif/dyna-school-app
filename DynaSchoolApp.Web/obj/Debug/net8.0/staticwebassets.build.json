@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5tj/VYNvc9M8vkxP6S49YhX50AUM1cd+s3DWtIHePlE=",
+  "Hash": "pCyRoDeUMv4KNJBqfP+5+FCZygupEUFlheuAIKUSX5s=",
   "Source": "DynaSchoolApp.Web",
   "BasePath": "_content/DynaSchoolApp.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DynaSchoolApp.Web\\wwwroot",
       "Source": "DynaSchoolApp.Web",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "DynaSchoolApp.Web#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "JutBQgoEmaNxELRikjYBuTgSGSB2rubOHXLrP86qF4o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css"
+      "OriginalItemSpec": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "DynaSchoolApp.Web#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "JutBQgoEmaNxELRikjYBuTgSGSB2rubOHXLrP86qF4o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\app.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\app.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\favicon.png",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\favicon.png",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "DynaSchoolApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\",
       "BasePath": "_content/DynaSchoolApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1028,7 +1028,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\app.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1065,7 +1065,7 @@
     },
     {
       "Route": "app.m6tffn8w1u.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\app.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1110,7 +1110,7 @@
     },
     {
       "Route": "DynaSchoolApp.Web.bundle.scp.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1147,7 +1147,7 @@
     },
     {
       "Route": "DynaSchoolApp.Web.mof359pw3b.bundle.scp.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DynaSchoolApp.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1192,7 +1192,7 @@
     },
     {
       "Route": "DynaSchoolApp.Web.mof359pw3b.styles.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1237,7 +1237,7 @@
     },
     {
       "Route": "DynaSchoolApp.Web.styles.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DynaSchoolApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1274,7 +1274,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\favicon.png",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1319,7 +1319,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\favicon.png",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1356,7 +1356,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1393,7 +1393,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1430,7 +1430,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1475,7 +1475,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1520,7 +1520,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1557,7 +1557,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1594,7 +1594,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1639,7 +1639,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1676,7 +1676,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1721,7 +1721,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1758,7 +1758,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.c63t5i9ira.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1803,7 +1803,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1840,7 +1840,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1885,7 +1885,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1922,7 +1922,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1967,7 +1967,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2012,7 +2012,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2049,7 +2049,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.c2jlpeoesf.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2094,7 +2094,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2131,7 +2131,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2168,7 +2168,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.aexeepp0ev.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2213,7 +2213,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2250,7 +2250,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.sejl45xvog.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2295,7 +2295,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2332,7 +2332,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.ausgxo2sd3.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2377,7 +2377,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2414,7 +2414,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.22vffe00uq.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2459,7 +2459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2496,7 +2496,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2541,7 +2541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2578,7 +2578,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2623,7 +2623,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2668,7 +2668,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2705,7 +2705,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.fvhpjtyr6v.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2750,7 +2750,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2787,7 +2787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2824,7 +2824,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.fsbi9cje9m.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2869,7 +2869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2906,7 +2906,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.tmc1g35s3z.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2951,7 +2951,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2996,7 +2996,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3033,7 +3033,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.ee0r1s7dh0.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3078,7 +3078,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3115,7 +3115,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3152,7 +3152,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.jd9uben2k1.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3197,7 +3197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3234,7 +3234,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.q9ht133ko3.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3279,7 +3279,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3324,7 +3324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3361,7 +3361,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3398,7 +3398,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.r4e9w2rdcm.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3443,7 +3443,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3488,7 +3488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3525,7 +3525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.c2oey78nd0.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3570,7 +3570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3607,7 +3607,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.wl58j5mj3v.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3652,7 +3652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3689,7 +3689,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.j5mq2jizvt.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3734,7 +3734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3771,7 +3771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3816,7 +3816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3853,7 +3853,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3890,7 +3890,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.nvvlpmu67g.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3935,7 +3935,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.keugtjm085.css",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3980,7 +3980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.0z27m2hwzh.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4025,7 +4025,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4062,7 +4062,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.193hh8vz9a.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4107,7 +4107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4144,7 +4144,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4181,7 +4181,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.cx9g1u8qiq.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4226,7 +4226,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4263,7 +4263,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.sebe1i1n8x.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4308,7 +4308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.065vd69l74.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4353,7 +4353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4390,7 +4390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4427,7 +4427,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.sqyratj1t3.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4472,7 +4472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4509,7 +4509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.3dexhun2ey.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4554,7 +4554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4591,7 +4591,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.l53j0jwsua.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4636,7 +4636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4673,7 +4673,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4710,7 +4710,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.x8if477tk8.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4755,7 +4755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.iug4zs40ca.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4800,7 +4800,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4837,7 +4837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4874,7 +4874,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.mnuu5ydlp6.map",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4919,7 +4919,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.vpmhjubua2.js",
-      "AssetFile": "E:\\Project\\DynaSchoolApp\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
