@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class DynaSchoolApp_ApiService : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """E:\Project\git-projects\dyna-school-app\DynaSchoolApp.ApiService\DynaSchoolApp.ApiService.csproj""";
+    public string ProjectPath => """E:\API Projects\schoolServiceApp\DynaSchoolApp.ApiService\DynaSchoolApp.ApiService.csproj""";
 }

@@ -8,5 +8,5 @@ namespace Projects;
 public class DynaSchoolApp_AppHost
 {
     private DynaSchoolApp_AppHost() { }
-    public static string ProjectPath => """E:\Project\git-projects\dyna-school-app\DynaSchoolApp.AppHost""";
+    public static string ProjectPath => """E:\API Projects\schoolServiceApp\DynaSchoolApp.AppHost""";
 }

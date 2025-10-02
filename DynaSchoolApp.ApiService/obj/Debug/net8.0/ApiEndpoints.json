@@ -2,7 +2,7 @@
   {
     "ContainingType": "DynaSchoolApp.ApiService.Controllers.ProductController",
     "Method": "GetProducts",
-    "RelativePath": "api/Product",
+    "RelativePath": "school/Product",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,6 +10,32 @@
     "ReturnTypes": [
       {
         "Type": "DynaSchoolApp.Models.Models.BaseResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DynaSchoolApp.ApiService.Controllers.SchoolAuthController",
+    "Method": "Login",
+    "RelativePath": "school/SchoolAuth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DynaSchoolApp.Models.Entities.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DynaSchoolApp.Models.Entities.LoginResponseModel",
         "MediaTypes": [
           "text/plain",
           "application/json",

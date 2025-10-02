@@ -1,4 +1,5 @@
 ﻿using DynaSchoolApp.Models.Entities;
+using DynaSchoolApp.Models.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -16,6 +17,9 @@ namespace DynaSchoolApp.Database.Data
         }
 
         public DbSet<ProductModel> Products {  get; set; }
-
+        public DbSet<RoleModel> Roles { get; set; }
+        public DbSet<SchoolUserModel> SchoolUsers { get; set; }
+        public DbSet<SchoolUserRoleModel> SchoolUserRoles { get; set; }
+        public DbSet<RefreshTokenModel> RefreshTokens { get; set; }
     }
 }

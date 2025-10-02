@@ -23,3 +23,16 @@ E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Models\obj\Debug\net8.0\Dy
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Models\obj\Debug\net8.0\refint\DynaSchoolApp.Models.dll
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.pdb
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Models\obj\Debug\net8.0\ref\DynaSchoolApp.Models.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\bin\Debug\net8.0\DynaSchoolApp.Models.deps.json
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\bin\Debug\net8.0\DynaSchoolApp.Models.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\bin\Debug\net8.0\DynaSchoolApp.Models.pdb
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.csproj.AssemblyReference.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.AssemblyInfoInputs.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.AssemblyInfo.cs
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.csproj.CoreCompileInputs.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.sourcelink.json
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\refint\DynaSchoolApp.Models.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\DynaSchoolApp.Models.pdb
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Models\obj\Debug\net8.0\ref\DynaSchoolApp.Models.dll

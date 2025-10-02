@@ -23,3 +23,16 @@ E:\Project\git-projects\dyna-school-app\DynaSchoolApp.ServiceDefaults\obj\Debug\
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\refint\DynaSchoolApp.ServiceDefaults.dll
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.pdb
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\ref\DynaSchoolApp.ServiceDefaults.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\bin\Debug\net8.0\DynaSchoolApp.ServiceDefaults.deps.json
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\bin\Debug\net8.0\DynaSchoolApp.ServiceDefaults.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\bin\Debug\net8.0\DynaSchoolApp.ServiceDefaults.pdb
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.csproj.AssemblyReference.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.AssemblyInfoInputs.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.AssemblyInfo.cs
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.sourcelink.json
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\refint\DynaSchoolApp.ServiceDefaults.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\DynaSchoolApp.ServiceDefaults.pdb
+E:\API Projects\schoolServiceApp\DynaSchoolApp.ServiceDefaults\obj\Debug\net8.0\ref\DynaSchoolApp.ServiceDefaults.dll

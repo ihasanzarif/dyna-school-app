@@ -1,18 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Project\\git-projects\\dyna-school-app\\",
+  "WorkspaceRootPath": "E:\\API Projects\\schoolServiceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|e:\\project\\git-projects\\dyna-school-app\\dynaschoolapp.web\\components\\pages\\product\\productindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|solutionrelative:dynaschoolapp.web\\components\\pages\\product\\productindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.apiservice\\handlers\\tenantloginresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|solutionrelative:dynaschoolapp.apiservice\\handlers\\tenantloginresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|e:\\project\\git-projects\\dyna-school-app\\dynaschoolapp.web\\components\\pages\\product\\productindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|solutionrelative:dynaschoolapp.web\\components\\pages\\product\\productindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.apiservice\\handlers\\tenantconnectionstringresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|solutionrelative:dynaschoolapp.apiservice\\handlers\\tenantconnectionstringresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|e:\\project\\git-projects\\dyna-school-app\\dynaschoolapp.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{737A457E-9004-46CD-A227-67797B257294}|DynaSchoolApp.Web\\DynaSchoolApp.Web.csproj|solutionrelative:dynaschoolapp.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|solutionrelative:dynaschoolapp.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.apiservice\\controllers\\schoolauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|solutionrelative:dynaschoolapp.apiservice\\controllers\\schoolauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.apiservice\\handlers\\claimsfromheaderauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|solutionrelative:dynaschoolapp.apiservice\\handlers\\claimsfromheaderauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|solutionrelative:dynaschoolapp.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280E885B-8544-4776-B5B0-F6EE0015DD2E}|DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.database\\data\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280E885B-8544-4776-B5B0-F6EE0015DD2E}|DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj|solutionrelative:dynaschoolapp.database\\data\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.apiservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4410DF-9BC0-4B08-BE7B-C080A3A7C898}|DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj|solutionrelative:dynaschoolapp.apiservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.models\\entities\\schoolusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|solutionrelative:dynaschoolapp.models\\entities\\schoolusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.models\\models\\refreshtokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|solutionrelative:dynaschoolapp.models\\models\\refreshtokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.models\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|solutionrelative:dynaschoolapp.models\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.models\\entities\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|solutionrelative:dynaschoolapp.models\\entities\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|e:\\api projects\\schoolserviceapp\\dynaschoolapp.models\\entities\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB9582-3BFF-453A-9302-0633ABA629C1}|DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj|solutionrelative:dynaschoolapp.models\\entities\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "DynaSchoolApp.Web\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T19:29:00.934Z",
+              "DocumentIndex": 3,
+              "Title": "SchoolAuthController.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Controllers\\SchoolAuthController.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.ApiService\\Controllers\\SchoolAuthController.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Controllers\\SchoolAuthController.cs",
+              "RelativeToolTip": "DynaSchoolApp.ApiService\\Controllers\\SchoolAuthController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAD4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:34:59.786Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductIndex.razor",
-              "DocumentMoniker": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
-              "RelativeDocumentMoniker": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
-              "ToolTip": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
-              "RelativeToolTip": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T19:24:29.197Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "DynaSchoolApp.ApiService\\appsettings.json",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\appsettings.json",
+              "RelativeToolTip": "DynaSchoolApp.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T13:05:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimsFromHeaderAuthenticationHandler.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Handlers\\ClaimsFromHeaderAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.ApiService\\Handlers\\ClaimsFromHeaderAuthenticationHandler.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Handlers\\ClaimsFromHeaderAuthenticationHandler.cs",
+              "RelativeToolTip": "DynaSchoolApp.ApiService\\Handlers\\ClaimsFromHeaderAuthenticationHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:06:59.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductIndex.razor.cs",
-              "DocumentMoniker": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
-              "RelativeDocumentMoniker": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
-              "ToolTip": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
-              "RelativeToolTip": "DynaSchoolApp.Web\\Components\\Pages\\Product\\ProductIndex.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Title": "TenantConnectionStringResolver.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Handlers\\TenantConnectionStringResolver.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.ApiService\\Handlers\\TenantConnectionStringResolver.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Handlers\\TenantConnectionStringResolver.cs",
+              "RelativeToolTip": "DynaSchoolApp.ApiService\\Handlers\\TenantConnectionStringResolver.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T19:14:20.59Z",
+              "WhenOpened": "2025-10-02T14:50:44.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TenantLoginResolver.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Handlers\\TenantLoginResolver.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.ApiService\\Handlers\\TenantLoginResolver.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Handlers\\TenantLoginResolver.cs",
+              "RelativeToolTip": "DynaSchoolApp.ApiService\\Handlers\\TenantLoginResolver.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIAwwE8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:10:44.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.ApiService\\Program.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Program.cs",
+              "RelativeToolTip": "DynaSchoolApp.ApiService\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:41:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TenantDbContextFactory.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\Data\\TenantDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Database\\Data\\TenantDbContextFactory.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\Data\\TenantDbContextFactory.cs",
+              "RelativeToolTip": "DynaSchoolApp.Database\\Data\\TenantDbContextFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:53:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.ApiService\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DynaSchoolApp.ApiService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:54:24.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolUserModel.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Entities\\SchoolUserModel.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Models\\Entities\\SchoolUserModel.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Entities\\SchoolUserModel.cs",
+              "RelativeToolTip": "DynaSchoolApp.Models\\Entities\\SchoolUserModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:58:20.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RefreshTokenModel.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Models\\RefreshTokenModel.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Models\\Models\\RefreshTokenModel.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Models\\RefreshTokenModel.cs",
+              "RelativeToolTip": "DynaSchoolApp.Models\\Models\\RefreshTokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:01:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Models\\Models\\RoleModel.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Models\\RoleModel.cs",
+              "RelativeToolTip": "DynaSchoolApp.Models\\Models\\RoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:59:26.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Entities\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Models\\Entities\\LoginResponseModel.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Entities\\LoginResponseModel.cs",
+              "RelativeToolTip": "DynaSchoolApp.Models\\Entities\\LoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:38:47.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Entities\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DynaSchoolApp.Models\\Entities\\LoginModel.cs",
+              "ToolTip": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\Entities\\LoginModel.cs",
+              "RelativeToolTip": "DynaSchoolApp.Models\\Entities\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:37:52.671Z",
               "EditorCaption": ""
             }
           ]

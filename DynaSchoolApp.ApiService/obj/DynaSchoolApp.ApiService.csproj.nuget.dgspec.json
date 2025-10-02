@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj": {}
+    "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj": {}
   },
   "projects": {
-    "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj": {
+    "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj",
+        "projectUniqueName": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj",
         "projectName": "DynaSchoolApp.ApiService",
-        "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ApiService\\obj\\",
+        "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\DynaSchoolApp.ApiService.csproj",
+        "packagesPath": "C:\\Users\\amimul.ihasan\\.nuget\\packages\\",
+        "outputPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ApiService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amimul.ihasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,20 +26,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj": {
-                "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj"
+              "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj": {
+                "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj"
               },
-              "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
-                "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj"
+              "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
+                "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj"
               },
-              "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj": {
-                "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj"
+              "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj": {
+                "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj"
               }
             }
           }
@@ -54,19 +55,35 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.19, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.19, )"
             },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
@@ -100,24 +117,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj": {
+    "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj",
+        "projectUniqueName": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj",
         "projectName": "DynaSchoolApp.BL",
-        "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.BL\\obj\\",
+        "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.BL\\DynaSchoolApp.BL.csproj",
+        "packagesPath": "C:\\Users\\amimul.ihasan\\.nuget\\packages\\",
+        "outputPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amimul.ihasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,17 +143,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj": {
-                "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj"
+              "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj": {
+                "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj"
               },
-              "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
-                "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj"
+              "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
+                "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj"
               }
             }
           }
@@ -151,7 +169,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -159,7 +177,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.19, )"
             }
           },
           "imports": [
@@ -178,24 +196,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj": {
+    "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj",
+        "projectUniqueName": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj",
         "projectName": "DynaSchoolApp.Database",
-        "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Database\\obj\\",
+        "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\DynaSchoolApp.Database.csproj",
+        "packagesPath": "C:\\Users\\amimul.ihasan\\.nuget\\packages\\",
+        "outputPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amimul.ihasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -204,14 +222,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
-                "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj"
+              "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
+                "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj"
               }
             }
           }
@@ -226,15 +245,27 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
             }
           },
           "imports": [
@@ -253,24 +284,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
+    "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj",
+        "projectUniqueName": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj",
         "projectName": "DynaSchoolApp.Models",
-        "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.Models\\obj\\",
+        "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\DynaSchoolApp.Models.csproj",
+        "packagesPath": "C:\\Users\\amimul.ihasan\\.nuget\\packages\\",
+        "outputPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amimul.ihasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -279,7 +310,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
@@ -297,7 +329,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -324,24 +356,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj": {
+    "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj",
+        "projectUniqueName": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj",
         "projectName": "DynaSchoolApp.ServiceDefaults",
-        "projectPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\git-projects\\dyna-school-app\\DynaSchoolApp.ServiceDefaults\\obj\\",
+        "projectPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ServiceDefaults\\DynaSchoolApp.ServiceDefaults.csproj",
+        "packagesPath": "C:\\Users\\amimul.ihasan\\.nuget\\packages\\",
+        "outputPath": "E:\\API Projects\\schoolServiceApp\\DynaSchoolApp.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amimul.ihasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -350,7 +382,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
@@ -368,7 +401,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -422,7 +455,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -29,3 +29,19 @@ E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Database\obj\Debug\net8.0\
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Database\obj\Debug\net8.0\refint\DynaSchoolApp.Database.dll
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.pdb
 E:\Project\git-projects\dyna-school-app\DynaSchoolApp.Database\obj\Debug\net8.0\ref\DynaSchoolApp.Database.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\bin\Debug\net8.0\DynaSchoolApp.Database.deps.json
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\bin\Debug\net8.0\DynaSchoolApp.Database.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\bin\Debug\net8.0\DynaSchoolApp.Database.pdb
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\bin\Debug\net8.0\DynaSchoolApp.Models.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\bin\Debug\net8.0\DynaSchoolApp.Models.pdb
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.csproj.AssemblyReference.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.AssemblyInfoInputs.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.AssemblyInfo.cs
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.csproj.CoreCompileInputs.cache
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.sourcelink.json
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaScho.43EAAB81.Up2Date
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\refint\DynaSchoolApp.Database.dll
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\DynaSchoolApp.Database.pdb
+E:\API Projects\schoolServiceApp\DynaSchoolApp.Database\obj\Debug\net8.0\ref\DynaSchoolApp.Database.dll
